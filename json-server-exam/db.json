@@ -1,19 +1,29 @@
 {
-  "todos" : [
+  "todos": [
     {
-      "id" : 1,
+      "id": 1,
       "content": "HTML",
-      "completed" : true
+      "completed": true
     },
     {
-      "id" : 2,
+      "id": 2,
       "content": "CSS",
-      "completed" : false
+      "completed": false
     },
     {
-      "id" : 3,
+      "id": 3,
       "content": "JavaScript",
-      "completed" : true
+      "completed": true
+    },
+    {
+      "id": 4,
+      "content": "Angular",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "content": "TypeScript",
+      "completed": false
     }
   ]
 }
