@@ -16,11 +16,6 @@
       "completed": true
     },
     {
-      "id": 4,
-      "content": "React",
-      "completed": false
-    },
-    {
       "id": 5,
       "content": "TypeScript",
       "completed": false
